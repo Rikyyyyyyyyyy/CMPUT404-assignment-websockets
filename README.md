@@ -6,6 +6,7 @@ CMPUT404-assignment-websockets
 See requirements.org (plain-text) for a description of the project.
 
 Make a shared state Websockets drawing program
+
 Source
 ==============================
 https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
